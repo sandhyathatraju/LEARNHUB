@@ -12,19 +12,19 @@ Develop a comprehensive online learning platform with three user types (Student,
 Backend is developed by Sandhya
 Features
 
-1. User Authentication:
+# 1. User Authentication:
 Student Login [/login]
 
 Teacher Login [/login]
 
 Admin Login [/adminLogin]
 
-2. Application Approval:
+# 2. Application Approval:
 Students and teachers can submit applications for approval.
 
 Admin validates and approves applications.
 
-3. Dashboard:
+# 3. Dashboard:
 Students see purchased courses, progress, and communication options.
 Teachers view created courses, student enrollments, and communication features.
 
